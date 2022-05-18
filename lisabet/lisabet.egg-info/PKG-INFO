@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: lisabet
+Version: 0.1.51
+Summary: A stenography training application
+Home-page: https://github.com/devbrones/lisabet
+Author: Devbrones
+Author-email: crhlm@pm.me
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/devbrones/lisabet/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Lisabet
+## Stenography training application
+
+
+Check ```./dist/``` for beta wheels
+
+

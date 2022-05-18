@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="lisabet",
-    version="0.1.49",
+    version="0.1.51",
     author="Devbrones",
     author_email="crhlm@pm.me",
     description="A stenography training application",
@@ -24,10 +24,5 @@ setuptools.setup(
     packages=setuptools.find_packages(where="lisabet"),
     python_requires=">=3.10",
     install_requires=[
-        'tkinter',
-        'collections',
-        'time',
-        'json',
-        'random'
     ]
 )
